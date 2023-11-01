@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargouchandra&label=Profile%20views&color=0e75b6&style=flat" alt="sanskargouchandra" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 Google Cloud Ready Facilitator Program Badges: <a href="https://www.cloudskillsboost.google/public_profiles/eeec0f4f-bfd0-4543-80f7-0509c81e1f3a" target="blank"><img align="center" src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="gouchandrasanskar" height="15" width="80" /></a>
 </p>
