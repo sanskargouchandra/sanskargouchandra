@@ -9,7 +9,7 @@
 </p>
 
 
-- 💬 Ask me about:  **Android, React JS**
+- 💬 Ask me about:  **Web Development & Android Development**
 
 - 📫 How to reach me:  **gouchandrasanskar@gmail.com**
 
